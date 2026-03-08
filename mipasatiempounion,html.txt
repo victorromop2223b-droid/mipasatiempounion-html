@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Pasatiempo - Free Fire</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url("https://wallpaperaccess.com/full/2703652.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+            color: white;
+        }
+
+        header {
+            background-color: rgba(0, 0, 0, 0.8);
+            text-align: center;
+            padding: 20px;
+        }
+
+        main {
+            background-color: rgba(0, 0, 0, 0.7);
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: black;
+            text-align: center;
+            padding: 10px;
+        }
+
+        h1, h2 {
+            color: #ffcc00;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            border: 2px solid #ffcc00;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #ffcc00;
+            color: black;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+            border-radius: 10px;
+        }
+
+        iframe {
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mi Pasatiempo Favorito: Free Fire</h1>
+    </header>
+
+    <main>
+
+        <p>
+            Free Fire es un videojuego de batalla real donde 50 jugadores caen en una isla 
+            y luchan por sobrevivir hasta que quede uno solo. Es uno de los juegos móviles 
+            más populares del mundo gracias a sus personajes con habilidades especiales 
+            y su dinámica rápida y emocionante.
+        </p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lFVpHMnC-SyT4KBA-kvvuWrwg53TI6gnHffTWPGGgw&s"
+             alt="Imagen de Free Fire" width="300">
+
+        <h2>Personajes Destacados</h2>
+
+        <table>
+            <tr>
+                <th>Personaje</th>
+                <th>Habilidad</th>
+                <th>Tipo</th>
+            </tr>
+            <tr>
+                <td>Alok</td>
+                <td>Aura curativa y aumento de velocidad</td>
+                <td>Soporte</td>
+            </tr>
+            <tr>
+                <td>Chrono</td>
+                <td>Escudo protector</td>
+                <td>Defensivo</td>
+            </tr>
+            <tr>
+                <td>Kelly</td>
+                <td>Mayor velocidad al correr</td>
+                <td>Ofensivo</td>
+            </tr>
+            <tr>
+                <td>Skyler</td>
+                <td>Destruye paredes gloo</td>
+                <td>Ataque</td>
+            </tr>
+        </table>
+
+        <h2>Gameplay del Juego</h2>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vfzjgfBuBaE" 
+        title="YouTube video player" frameborder="0" allowfullscreen>
+        </iframe>
+
+        <h2>Video de Presentación</h2>
+
+        <p>nuestro saludo</p>
+
+        <a href="https://vt.tiktok.com/ZSu2qtGCp/" target="_blank">
+        <button style="padding:10px 20px; font-size:16px; background-color:#ffcc00; border:none; border-radius:5px; cursor:pointer;">
+        Ver Saludo
+        </button>
+        </a>
+
+    </main>
+
+    <footer>
+        <p>Página creada por la pareja UNIÓN </p>
+    </footer>
+
+</body>
+</html>
